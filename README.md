@@ -14,11 +14,6 @@ Um jogo clássico de **Pedra, Papel e Tesoura**, desenvolvido em Python para jog
 
 4. 🕹️ **Divirta-se!** Digite sua escolha e tente vencer o computador!
 
-## 🛠️ Tecnologias utilizadas
-
-- 🐍 **Python 3**
-- 🎲 **Módulo `random`** — sorteia a jogada do computador.
-
 ## 📂 Arquivos do projeto
 
 - 🎲 `aleatoria.py` — contém as funções de escolha e sorteio das jogadas.
