@@ -26,11 +26,11 @@ Jokenpo-de-terminal-python/
 
 ### 1. Download
 
-Download the project as a ZIP file and extract it.
+Download the game.py in realeases.
 
 ### 2. Open the terminal
 
-Navigate to the extracted project folder.
+Navigate to the project folder.
 
 ### 3. Run the game
 
