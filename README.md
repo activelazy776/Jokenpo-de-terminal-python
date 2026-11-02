@@ -1,24 +1,72 @@
-# 🎮 Jokenpô de Terminal — Python
+# 🎮 Jokenpo - Rock, Paper, Scissors
 
-Um jogo clássico de **Pedra, Papel e Tesoura**, desenvolvido em Python para jogar diretamente pelo terminal! 🐍
+A simple Rock, Paper, Scissors game developed in Python, playable directly from your terminal.
 
-## 🎯 Como jogar
+## ✨ Features
 
-1. 📥 **Baixe o projeto:** baixe o arquivo `.zip` deste repositório e extraia os arquivos.
-2. 💻 **Abra o terminal:** entre na pasta onde os arquivos foram extraídos.
-3. ▶️ **Execute o jogo:** com o Python 3 instalado, rode:
+- Random computer choices.
+- Player input with automatic uppercase conversion.
+- Win, lose, and draw detection.
+- Input validation.
+- Lightweight and easy-to-understand code.
 
-   ```bash
-   python3 resultado.py
-   ```
+## 📂 Project Structure
 
-4. 🕹️ **Divirta-se!** Digite sua escolha e tente vencer o computador!
+```text
+Jokenpo-de-terminal-python/
+├── game.py
+├── README.md
+└── .gitignore
+```
 
-## 📂 Arquivos do projeto
+- `game.py` — Contains the game logic, random choice generation, player input, and result detection.
+- `.gitignore` — Specifies files that Git should ignore.
 
-- 🎲 `aleatoria.py` — contém as funções de escolha e sorteio das jogadas.
-- ⚙️ `resultado.py` — compara as jogadas e determina o resultado da partida.
+## 🚀 How to Run
+
+### 1. Download
+
+Download the project as a ZIP file and extract it.
+
+### 2. Open the terminal
+
+Navigate to the extracted project folder.
+
+### 3. Run the game
+
+Make sure Python 3 is installed, then execute:
+
+```bash
+python3 game.py
+```
+
+On Windows, you can also use:
+
+```powershell
+python game.py
+```
+
+## 🎯 How to Play
+
+Choose one of the following options:
+
+- `PEDRA` (Rock)
+- `PAPEL` (Paper)
+- `TESOURA` (Scissors)
+
+The computer randomly selects an option, and the game determines the winner.
+
+## 🛠️ Requirements
+
+- Python 3.x
+- No external libraries required.
+
+## 📚 Technologies
+
+- Python
+- Git
+- Random module
 
 ---
 
-💙 Desenvolvido com Python.
+Made with Python 💙
